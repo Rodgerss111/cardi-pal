@@ -15,8 +15,8 @@ The application operates entirely offline, providing students and interns with a
 **Main Capture Screen**  
 *The freeform editor where users can quickly capture rough drafts, code snippets, and notes.*
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23b21ef3-39fb-4cdc-9947-be526e542e9e" width="48%" height="353" alt="Capture Screen View 1">
-  <img src="https://github.com/user-attachments/assets/482aca98-02e0-4f1b-af29-a49f9df71c6d" width="48%" height="319" alt="Capture Screen View 2">
+  <img src="https://github.com/user-attachments/assets/23b21ef3-39fb-4cdc-9947-be526e542e9e" width="48%" height="300" style="object-fit: contain;" alt="Capture Screen View 1">
+  <img src="https://github.com/user-attachments/assets/482aca98-02e0-4f1b-af29-a49f9df71c6d" width="48%" height="300" style="object-fit: contain;" alt="Capture Screen View 2">
 
 </p>
 
@@ -24,8 +24,8 @@ The application operates entirely offline, providing students and interns with a
 *Categorized templates featuring Coach's Notes, educational guidance, and dynamic variable requirements.*
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/dfbcb362-6a3e-426f-8783-ffdac502c5dd" width="48%" alt="Template Library View 1">
-  <img src="https://github.com/user-attachments/assets/0d6e0a5d-1cd7-4dc0-bbfe-7ba3832ba2d4" width="48%" height="325" alt="Template Library View 2">
+  <img src="https://github.com/user-attachments/assets/dfbcb362-6a3e-426f-8783-ffdac502c5dd" width="48%" height="300" style="object-fit: contain;" alt="Template Library View 1">
+  <img src="https://github.com/user-attachments/assets/0d6e0a5d-1cd7-4dc0-bbfe-7ba3832ba2d4" width="48%" height="300" style="object-fit: contain;" alt="Template Library View 2">
 
 </p>
 
@@ -33,8 +33,8 @@ The application operates entirely offline, providing students and interns with a
 *CardiPal operating as a compact desktop companion, alongside its expanded full-screen mode.*
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/ef8a6ed9-8370-4be8-b211-526855532d54" width="48%" alt="Compact Widget View">
-  <img src="https://github.com/user-attachments/assets/c438f870-fc6f-4a6b-8e3a-c78f3960abc9" width="48%" height="327" alt="Full Screen View">
+  <img src="https://github.com/user-attachments/assets/ef8a6ed9-8370-4be8-b211-526855532d54" width="48%" height="300" style="object-fit: contain;" alt="Compact Widget View">
+  <img src="https://github.com/user-attachments/assets/c438f870-fc6f-4a6b-8e3a-c78f3960abc9" width="48%" height="300" style="object-fit: contain;" alt="Full Screen View">
 
 </p>
 
