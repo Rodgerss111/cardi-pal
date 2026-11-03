@@ -15,9 +15,12 @@ The application operates entirely offline, providing students and interns with a
 **Main Capture Screen**  
 *The freeform editor where users can quickly capture rough drafts, code snippets, and notes.*
 <p align="center">
-  <img src="docs/images/capture_1.png" width="48%" alt="Capture Screen View 1">
-  <img src="docs/images/capture_2.png" width="48%" alt="Capture Screen View 2">
+  <img src="https://github.com/user-attachments/assets/ec76a8ed-04fe-4acd-bd0f-1b954be9db05" width="48%" alt="Capture Screen View 1">
+  <img src="https://github.com/user-attachments/assets/e9afae8f-92e0-413d-9068-93756f98cfb8" width="48%" alt="Capture Screen View 2">
 </p>
+
+
+
 
 **Template Library**  
 *Categorized templates featuring Coach's Notes, educational guidance, and dynamic variable requirements.*
