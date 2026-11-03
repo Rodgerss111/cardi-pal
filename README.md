@@ -184,7 +184,7 @@ The resulting Windows application bundles and installer will be generated in the
 
 **1. Launch CardiPal & Shortcuts**
 
-Open CardiPal through its desktop shortcut, or by clicking the cardinal bird icon in your Windows system tray. You can also quickly summon the app using the configured global keyboard shortcut (e.g., `Ctrl + Shift + Space` if configured in settings). The application launches in a compact companion size by default, but you can freely resize it or drag it to the top of your screen to snap it into full-screen mode.
+Open CardiPal through its desktop shortcut, or by clicking the cardinal bird icon in your Windows system tray. You can also quickly summon the app using the configured global keyboard shortcut `Ctrl + Shift + Space` to show the app 'Esc' to hide. The application launches in a compact companion size by default, but you can freely resize it or drag it to the top of your screen to snap it into full-screen mode.
 
 **2. Draft or Select a Template**
 
