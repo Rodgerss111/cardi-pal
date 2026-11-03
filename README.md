@@ -1,6 +1,6 @@
 # CardiPal
 
-A secure, offline desktop companion for structured AI prompt engineering.
+A secure, offline-first desktop companion for structured AI prompt engineering.
 
 ## Overview
 
