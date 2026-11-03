@@ -153,10 +153,9 @@ To build and run CardiPal from source, ensure that your development environment 
 
 Open your terminal or command prompt and execute:
 ```bash
-git clone https://github.com/yourusername/cardipal.git
+git clone https://github.com/Rodgerss111/cardi-pal.git
 cd cardipal
 ```
-*(Replace the repository URL with the actual GitHub repository address).*
 
 **2. Install Dependencies**
 
