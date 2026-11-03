@@ -15,25 +15,22 @@ The application operates entirely offline, providing students and interns with a
 **Main Capture Screen**  
 *The freeform editor where users can quickly capture rough drafts, code snippets, and notes.*
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec76a8ed-04fe-4acd-bd0f-1b954be9db05" width="48%" alt="Capture Screen View 1">
-  <img src="https://github.com/user-attachments/assets/e9afae8f-92e0-413d-9068-93756f98cfb8" width="48%" alt="Capture Screen View 2">
+  <img src="https://github.com/user-attachments/assets/23b21ef3-39fb-4cdc-9947-be526e542e9e" width="48%" height="353" alt="Capture Screen View 1">
+  <img src="https://github.com/user-attachments/assets/482aca98-02e0-4f1b-af29-a49f9df71c6d" width="48%" height="319" alt="Capture Screen View 2">
 </p>
-
-
-
 
 **Template Library**  
 *Categorized templates featuring Coach's Notes, educational guidance, and dynamic variable requirements.*
 <p align="center">
-  <img src="docs/images/library_1.png" width="48%" alt="Template Library View 1">
-  <img src="docs/images/library_2.png" width="48%" alt="Template Library View 2">
+  <img src="https://github.com/user-attachments/assets/dfbcb362-6a3e-426f-8783-ffdac502c5dd" width="48%" alt="Template Library View 1">
+  <img src="https://github.com/user-attachments/assets/0d6e0a5d-1cd7-4dc0-bbfe-7ba3832ba2d4" width="48%" height="325" alt="Template Library View 2">
 </p>
 
 **Companion Widget & Full Screen**  
 *CardiPal operating as a compact desktop companion, alongside its expanded full-screen mode.*
 <p align="center">
-  <img src="docs/images/widget_1.png" width="48%" alt="Compact Widget View">
-  <img src="docs/images/fullscreen_2.png" width="48%" alt="Full Screen View">
+  <img src="https://github.com/user-attachments/assets/ef8a6ed9-8370-4be8-b211-526855532d54" width="48%" alt="Compact Widget View">
+  <img src="https://github.com/user-attachments/assets/c438f870-fc6f-4a6b-8e3a-c78f3960abc9" width="48%" height="327" alt="Full Screen View">
 </p>
 
 ## Key Features
@@ -195,14 +192,23 @@ Open CardiPal through its desktop shortcut, or by clicking the cardinal bird ico
 - **Freeform Editor:** Type or paste rough notes, ideas, code snippets, or other content into the Home screen.
 - **Template Library:** Browse the available frameworks and select one that matches your task.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1447fce0-094a-4f24-8830-cc14c529cba1" width="48%" >
+</p>
+
 **3. Review Coach's Notes**
 
 Hover over the available templates to view their Coach's Notes. These provide educational guidance to help users understand the purpose and appropriate application of each framework.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bbe20a79-74b8-4e6e-8df2-5ae703b8e247" width="48%" >
+</p>
 
 **4. Automatic Variable Injection**
 
 When using a template, ensure that the placeholder `{{user_input}}` remains in the task section of the template. You do not need to manually replace this text. CardiPal's engine will automatically detect `{{user_input}}` and replace it with your original draft or prompt from the Home screen.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31411e80-7106-48dc-8c2c-d31085fd0808" width="48%" >
+</p>
 **5. Copy the Generated Prompt**
 
 Click the copy action to compile the prompt and send the completed text to the system clipboard.
@@ -210,6 +216,9 @@ Click the copy action to compile the prompt and send the completed text to the s
 **6. Paste into Your Preferred AI Tool**
 
 Open your preferred browser-based AI platform and paste the generated prompt into its input field.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/49626330-70d9-47ad-899b-f439a0294570" width="48%" height="327" >
+</p>
 
 *Automatic Saving: CardiPal is designed to save drafts and interface preferences in the background. Manual saving should not be necessary during normal operation.*
 
