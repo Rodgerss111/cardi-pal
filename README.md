@@ -1,4 +1,4 @@
-# CardiPal
+CardiPal
 
 A secure, offline-first desktop companion for structured AI prompt engineering.
 
@@ -19,15 +19,17 @@ The application operates entirely offline, providing students and interns with a
     <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/23b21ef3-39fb-4cdc-9947-be526e542e9e" width="100%" height="300" alt="Capture Screen View 1"></td>
     <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/482aca98-02e0-4f1b-af29-a49f9df71c6d" width="100%" height="300" alt="Capture Screen View 2"></td>
   </tr>
+
 </table>
 
 **Template Library**  
 *Categorized templates featuring Coach's Notes, educational guidance, and dynamic variable requirements.*
 <table>
   <tr>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/dfbcb362-6a3e-426f-8783-ffdac502c5dd" width="100%" height="300" alt="Template Library View 1"></td>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/0d6e0a5d-1cd7-4dc0-bbfe-7ba3832ba2d4" width="100%" height="300" alt="Template Library View 2"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/faf5843f-c3e9-43a0-a78e-94ea2f9d9cee" width="100%" height="300" alt="Template Library View 1"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/515eb07a-ef02-4544-ac18-18227fef62f6" width="100%" height="300" alt="Template Library View 2"></td>
   </tr>
+  
 </table>
 
 **Companion Widget & Full Screen**  
