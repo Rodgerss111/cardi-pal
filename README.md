@@ -216,6 +216,7 @@ When using a template, ensure that the placeholder `{{user_input}}` remains in t
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31411e80-7106-48dc-8c2c-d31085fd0808" width="48%" >
 </p>
+
 **5. Copy the Generated Prompt**
 
 Click the copy action to compile the prompt and send the completed text to the system clipboard.
