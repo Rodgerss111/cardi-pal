@@ -1,4 +1,4 @@
-CardiPal
+**CardiPal**
 
 A secure, offline-first desktop companion for structured AI prompt engineering.
 
@@ -16,9 +16,10 @@ The application operates entirely offline, providing students and interns with a
 *The freeform editor where users can quickly capture rough drafts, code snippets, and notes.*
 <table>
   <tr>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/23b21ef3-39fb-4cdc-9947-be526e542e9e" width="100%" height="300" alt="Capture Screen View 1"></td>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/482aca98-02e0-4f1b-af29-a49f9df71c6d" width="100%" height="300" alt="Capture Screen View 2"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/7c7700d5-a59d-4615-b26c-b2f7dcd10fc3" width="100%" height="300" alt="Capture Screen View 1"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/c9217bd7-0b48-4f6e-a4a9-8bc588265751" width="100%" height="300" alt="Capture Screen View 2"></td>
   </tr>
+
 
 </table>
 
@@ -26,20 +27,25 @@ The application operates entirely offline, providing students and interns with a
 *Categorized templates featuring Coach's Notes, educational guidance, and dynamic variable requirements.*
 <table>
   <tr>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/faf5843f-c3e9-43a0-a78e-94ea2f9d9cee" width="100%" height="300" alt="Template Library View 1"></td>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/515eb07a-ef02-4544-ac18-18227fef62f6" width="100%" height="300" alt="Template Library View 2"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/ca467652-5b1e-486f-a27d-26220481aa08" width="100%" height="300" alt="Template Library View 1"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/809e7f08-65ad-4cda-865d-4bbd00c2ba4b" width="100%" height="300" alt="Template Library View 2"></td>
   </tr>
-  
+
+
 </table>
 
 **Companion Widget & Full Screen**  
 *CardiPal operating as a compact desktop companion, alongside its expanded full-screen mode.*
 <table>
   <tr>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/ef8a6ed9-8370-4be8-b211-526855532d54" width="100%" height="300" alt="Compact Widget View"></td>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/c438f870-fc6f-4a6b-8e3a-c78f3960abc9" width="100%" height="300" alt="Full Screen View"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/62122185-f5f9-4627-af1a-66440d8633b7" width="100%" height="300" alt="Compact Widget View"></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/9625bb0e-192f-466b-baba-9a48840e3ee8" width="100%" height="300" alt="Full Screen View"></td>
   </tr>
 </table>
+
+## Demo Video
+
+*https://drive.google.com/file/d/1I5Rx9NYAA_1_JJm9P3N9E2E5KwNpDQUH/view?usp=sharing*
 
 ## Key Features
 
@@ -198,23 +204,24 @@ Open CardiPal through its desktop shortcut, or by clicking the cardinal bird ico
 
 - **Freeform Editor:** Type or paste rough notes, ideas, code snippets, or other content into the Home screen.
 - **Template Library:** Browse the available frameworks and select one that matches your task.
-
+  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1447fce0-094a-4f24-8830-cc14c529cba1" width="48%" >
+<img src="https://github.com/user-attachments/assets/4517a7ae-0d0b-4ee9-be85-f915a5ac7b20" width="48%" />
 </p>
 
 **3. Review Coach's Notes**
 
 Hover over the available templates to view their Coach's Notes. These provide educational guidance to help users understand the purpose and appropriate application of each framework.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bbe20a79-74b8-4e6e-8df2-5ae703b8e247" width="48%" >
+  <img src="https://github.com/user-attachments/assets/2f8ed27d-bb60-43cc-a8d0-2dd9d4a4ff00" width="48%" >
 </p>
+
 
 **4. Automatic Variable Injection**
 
 When using a template, ensure that the placeholder `{{user_input}}` remains in the task section of the template. You do not need to manually replace this text. CardiPal's engine will automatically detect `{{user_input}}` and replace it with your original draft or prompt from the Home screen.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31411e80-7106-48dc-8c2c-d31085fd0808" width="48%" >
+  <img src="https://github.com/user-attachments/assets/9e10b6db-cbe5-4e73-b5ac-5dc7b3413afb" width="48%" >
 </p>
 
 **5. Copy the Generated Prompt**
